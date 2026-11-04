@@ -1,16 +1,19 @@
-<img width="1331" height="624" alt="image" src="https://github.com/user-attachments/assets/eca0d0ad-adfe-48a1-9e91-8cb8c306f610" />## Desde 1989 em finanças e processos corporativos: Sadia, Duratex, Cooper Standard, Tenneco. Hoje transformo esse know-how em sistemas de gestão, com IA. 👋
+# Olá, sou o Carlos Affonso 👋
 
-<!--
-**CarlosAffonso-erp/CarlosAffonso-erp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desde 1989 em finanças e processos corporativos — hoje transformo esse know-how em sistemas de gestão, com IA.**
 
-Here are some ideas to get you started:
+Passei mais de 25 anos dentro de escritórios corporativos (Sadia, Duratex, Engemed, Cooper Standard, Tenneco), em contas a receber, finanças, PCP e indicadores de produtividade. Conheço o processo antes de escrever o sistema — e é isso que faz a diferença.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 O que eu construo
+- **Contas a receber completo** — pedidos do comercial, fluxo de caixa, controle de cobrança e *Aging Report*
+- **Radar CNAE** — prospecção de empresas recém-abertas por atividade econômica (Dados Abertos CNPJ)
+- **Automação e análise de dados** — Excel avançado, Power Query, Power BI, DAX e ETL
+
+## 🛠️ Como trabalho
+Desenvolvimento com IA (Claude Code), Python e Excel/Power BI, sempre partindo do processo real da empresa: o que o financeiro precisa ver, controlar e cobrar.
+
+## 🏢 Rumo — Assessoria Empresarial e Sistemas de Gestão
+Lambari - MG • Atendimento remoto em todo o Brasil
+
+## 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/affonsocaed) • affonsocaed@gmail.com
