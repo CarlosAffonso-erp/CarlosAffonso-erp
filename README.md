@@ -5,7 +5,7 @@
 São mais de 35 anos participando de processos corporativos (Sadia, Duratex, Cooper Standard, Tenneco) em Finanças, Contabilidade, Custos, PCP e Produção, Ativo Fixo e indicadores de produtividade. Conheço o processo antes de escrever o sistema — e é isso que faz a diferença.
 
 ## 🧩 O que eu construo
-- **Sistemas de gestão para pequenas e médias indústrias — do pedido à entrega:** comercial → Compras → Fiscal → PCP e produção → expedição → financeiro → indicadores gerenciais.
+- **Sistemas de gestão para pequenas e médias indústrias — do pedido à entrega:** comercial → compras → fiscal (entradas) → PCP e produção → expedição → financeiro (AR/AP/Banking) → indicadores gerenciais.
 - **[Radar CNAE](https://www.radarcnae.com.br)** — prospecção de empresas recém-abertas por atividade econômica (Dados Abertos CNPJ)
 - **Automação e análise de dados** — Excel avançado, Power Query (M), Power BI, DAX e ETL
 
