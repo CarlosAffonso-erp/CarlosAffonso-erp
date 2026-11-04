@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="1331" height="624" alt="image" src="https://github.com/user-attachments/assets/eca0d0ad-adfe-48a1-9e91-8cb8c306f610" />## Desde 1989 em finanças e processos corporativos: Sadia, Duratex, Cooper Standard, Tenneco. Hoje transformo esse know-how em sistemas de gestão, com IA. 👋
 
 <!--
 **CarlosAffonso-erp/CarlosAffonso-erp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
