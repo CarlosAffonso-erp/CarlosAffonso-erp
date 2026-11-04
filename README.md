@@ -2,7 +2,7 @@
 
 **Desde 1989 em finanças e processos corporativos — hoje transformo esse know-how em sistemas de gestão, com IA.**
 
-Passei mais de 35 anos participando de processos corporativos (Sadia, Duratex, Cooper Standard, Tenneco), em Finanças, Contabilidade, PCP, Ativo Fixo e indicadores de Produtividade. Conheço o processo antes de escrever o sistema — e é isso que faz a diferença.
+Passei mais de 35 anos participando de processos corporativos (Sadia, Duratex, Cooper Standard, Tenneco), em Finanças, Contabilidade, Custos, PCP e Produção, Ativo Fixo e indicadores de Produtividade. Conheço o processo antes de escrever o sistema — e é isso que faz a diferença.
 
 ## 🧩 O que eu construo
 - **ERPs voltados à gestão de Pequenas e Médias Indústrias** — do Pedido à entrega.
